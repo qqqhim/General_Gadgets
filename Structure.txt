@@ -1,0 +1,14 @@
+gadget_toolkit/
+├── main.py                 # Main GUI application
+├── gadgets/
+│   ├── __init__.py
+│   ├── network.py         # Network-related gadgets
+│   ├── text_utils.py      # Text processing gadgets
+│   ├── system_info.py     # System information gadgets
+│   ├── file_ops.py        # File operations gadgets
+│   └── datetime_utils.py  # Date/time utilities
+├── utils/
+│   ├── __init__.py
+│   └── helpers.py         # Helper functions
+├── requirements.txt
+└── README.md
