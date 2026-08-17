@@ -5,8 +5,10 @@ Gadget Toolkit - Gadget Modules
 
 from .welcome import WelcomeGadget
 from .network import NetworkGadgets
+from .copyPasta import CopyPastaGadget
 
 __all__ = [
     'WelcomeGadget',
     'NetworkGadgets',
+    'CopyPastaGadget'
 ]

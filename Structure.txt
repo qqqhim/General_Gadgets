@@ -6,6 +6,7 @@ gadget_toolkit/
 │   ├── text_utils.py      # Text processing gadgets
 │   ├── system_info.py     # System information gadgets
 │   ├── file_ops.py        # File operations gadgets
+│   ├── copyPasta.py        # copyPastas gadgets
 │   └── datetime_utils.py  # Date/time utilities
 ├── utils/
 │   ├── __init__.py
